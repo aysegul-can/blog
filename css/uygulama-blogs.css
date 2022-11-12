@@ -1,0 +1,40 @@
+article{
+    max-width: 700px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 100px;
+}
+html{
+    line-height: 1.4;
+}
+a{
+    color: black;
+}
+p{
+    font-size: 20px;
+}
+
+figure{
+    margin-left: 0;
+    margin-right: 0;
+}
+figcaption{
+    text-align: center;
+    font-size: 1em;
+    margin-top: 16px;
+}
+.gray{
+     color: gray;
+}
+.normal{
+    font-weight: normal;
+}
+.sans-serif{
+    font-family: sans-serif;
+}
+blockquote{
+    font-size: 1.5em;
+}
+h1,h3,blockquote{
+    line-height: 1.2;
+}
